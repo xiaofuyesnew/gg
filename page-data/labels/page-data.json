@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-nav-labels-tsx",
+    "path": "/labels",
+    "result": {"pageContext":{"labelsList":[{"color":"000","name":"rgd.yml","id":"rgd-yml"}]}},
+    "staticQueryHashes": ["1246507300"]}
